@@ -3,9 +3,8 @@
 int main()
 {
 
-    printf("Laboratory work 1: Developing a Console Application.");
+    printf("Laboratory work 1: Developing a Console Application./n");
 
-    char str;
     char string[41];
     char character;
 
